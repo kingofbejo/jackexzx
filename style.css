@@ -1,0 +1,56 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.jumbotron {
+    background-color: #e9ecef;
+}
+
+/* About Section */
+#tentang {
+    background-color: #ffffff;
+}
+
+#tentang h2, #kontak h2 {
+    color: #007bff;
+}
+
+/* Contact Section */
+#kontak {
+    background-color: #f8f9fa;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+.mt-n4 {
+    margin-top: -100rem; /* Ubah nilai sesuai kebutuhan */
+}
+
+.font-title {
+    font-family: 'Arial', cursive; /* Font untuk keseluruhan judul */
+    font-size: 4rem; /* Ukuran font lebih besar */
+    color: #333; /* Warna teks */
+    margin-top: 20px; /* Jarak di atas */
+}
+
+.font-bold {
+    font-weight: 700; /* Ketebalan font untuk JOKO */
+}
+
+.font-thin {
+    font-weight: 300; /* Ketebalan font untuk PURNOMO */
+    font-family: 'Roboto', sans-serif; /* Font tipis untuk PURNOMO */
+}
+
+.font-subtitle {
+    font-family: 'Roboto', sans-serif; /* Font untuk subtitle */
+    font-weight: 300; /* Ketebalan font */
+    color: #666; /* Warna teks */
+    margin-top: 10px; /* Jarak di atas */
+}
